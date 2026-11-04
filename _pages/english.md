@@ -1,28 +1,28 @@
 ---
 permalink: /en/
-title: "Jade �� ���"
+title: "Jade · 周璇"
 author_profile: true
 lang: en
 ---
 
-[���İ�]({{ '/' | relative_url }})
+[中文版]({{ '/' | relative_url }})
 
-I am **Jade (���)**, a **master's student in Software Engineering at the School of Artificial Intelligence, Wuhan University of Technology**. I studied Network Engineering at Yangtze University as an undergraduate.
+I am **Jade (周璇)**, a **master's student in Software Engineering at the School of Artificial Intelligence, Wuhan University of Technology**. I studied Network Engineering at Yangtze University as an undergraduate.
 
 My research interests include **AIOps, intelligent log analysis, and root cause analysis for microservices**, with a focus on multimodal data fusion, cross-system generalization, and large language models (LLMs) and agents for fault diagnosis. I also explore LLM-driven data processing, automated workflows, and reliable systems engineering for logistics and industrial information systems.
 
 <h2 id="research">Research interests</h2>
 
-### 01 �� AIOps and root cause analysis
+### 01 · AIOps and root cause analysis
 Log anomaly detection, fault diagnosis, and root cause localization in microservices, with an emphasis on fault propagation and interpretability in complex systems.
 
-### 02 �� Multimodal fusion and cross-domain generalization
+### 02 · Multimodal fusion and cross-domain generalization
 Joint modeling of logs, metrics, and traces; anomaly diagnosis and generalization across systems with limited labeled data.
 
-### 03 �� LLMs and agents
+### 03 · LLMs and agents
 LLMs and agents for log understanding, fault reasoning, root cause analysis, and automated business processing, including tool use and multi-step reasoning.
 
-### 04 �� AI systems and industry applications
+### 04 · AI systems and industry applications
 Unstructured data extraction, domain knowledge integration, intelligent workflow orchestration, and LLM service integration and quality evaluation for logistics and industrial information systems.
 
 <h2 id="projects">Current research and projects</h2>
@@ -36,31 +36,31 @@ Unstructured data extraction, domain knowledge integration, intelligent workflow
 ## Previous projects
 
 ### Aelos robot vision and activation
-**Core developer �� Mar 2025�CAug 2025**  
+**Core developer · Mar 2025–Aug 2025**  
 Implemented object recognition, tracking, and motion control using OpenCV and lightweight deep learning models; optimized image preprocessing and serial communication. The project received a national first prize at the 27th China Robot and Artificial Intelligence Competition.
 
 ### OCR- and AI-based personnel archive retrieval
-**Project lead �� Started Oct 2024**  
+**Project lead · Started Oct 2024**  
 Designed a multilingual OCR model using ResNet, LSTM, and attention. Built retrieval and structured storage modules with inverted indexing, fuzzy matching, and MySQL, with access control. The project was recommended at the university level.
 
 ### Smart seat
-**Core developer �� Mar 2023�CApr 2024**  
+**Core developer · Mar 2023–Apr 2024**  
 Collected pressure distribution data with ESP8266 and pressure sensors, developed Python data cleaning and model inference modules, and built an HTML/CSS/JavaScript dashboard for posture monitoring, fatigue detection, and multi-user data management.
 
 <h2 id="education">Education</h2>
 
-- **Wuhan University of Technology** �� School of Artificial Intelligence �� Software Engineering �� Master's student
-- **Yangtze University** �� School of Computer Science �� Network Engineering �� Undergraduate education
+- **Wuhan University of Technology** · School of Artificial Intelligence · Software Engineering · Master's student
+- **Yangtze University** · School of Computer Science · Network Engineering · Undergraduate education
 
 ## Selected honors and awards
 
 - National Scholarship; University Outstanding Student Model; Outstanding Communist Youth League Member
-- China Robot and Artificial Intelligence Competition �� National First Prize
-- RAICOM Robot Developer Competition �� National First Prize
-- Lanqiao Cup Software and Information Technology Competition �� National Third Prize
-- Hubei Information Technology Innovation Competition �� Provincial Third Prize
-- National University Computer Competency Challenge �� Provincial Second Prize
-- Huazhong Cup Mathematical Modeling Competition �� Provincial Third Prize
+- China Robot and Artificial Intelligence Competition · National First Prize
+- RAICOM Robot Developer Competition · National First Prize
+- Lanqiao Cup Software and Information Technology Competition · National Third Prize
+- Hubei Information Technology Innovation Competition · Provincial Third Prize
+- National University Computer Competency Challenge · Provincial Second Prize
+- Huazhong Cup Mathematical Modeling Competition · Provincial Third Prize
 
 ## Contact
 

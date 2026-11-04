@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale: "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title: "��� | Jade"
+title: "周璇 | Jade"
 title_separator          : "-"
-name: "��� / Jade"
-description: "��诵�ѧ����ҳ �� AIOps, Log Intelligence & Root Cause Analysis"
+name: "周璇 / Jade"
+description: "周璇的学术主页 · AIOps, Log Intelligence & Root Cause Analysis"
 url: "https://xuan74587-cmd.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository: "xuan74587-cmd/xuan74587-cmd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "jade-avatar.svg"
-  name: "��� / Jade"
-  bio: "��������˶ʿ�ڶ� �� M.Sc. Student in Software Engineering"
-  employer: "�人������ѧ �� Wuhan University of Technology"
+  name: "周璇 / Jade"
+  bio: "软件工程硕士在读 · M.Sc. Student in Software Engineering"
+  employer: "武汉理工大学 · Wuhan University of Technology"
   email: "xuanzhou@whut.edu.cn"
   github: "xuan74587-cmd"
 

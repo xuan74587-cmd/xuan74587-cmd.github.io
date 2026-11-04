@@ -1,11 +1,11 @@
 main:
-- title: �о� / Research
+- title: 研究 / Research
   url: /#research
-- title: ��Ŀ / Projects
+- title: 项目 / Projects
   url: /#projects
-- title: ���� / Education
+- title: 经历 / Education
   url: /#education
-- title: ����
+- title: 中文
   url: /
 - title: English
   url: /en/
@@ -16,7 +16,7 @@ english:
   url: /en/#projects
 - title: Education
   url: /en/#education
-- title: ����
+- title: 中文
   url: /
 - title: English
   url: /en/
