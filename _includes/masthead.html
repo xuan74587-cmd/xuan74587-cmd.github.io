@@ -8,7 +8,9 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% assign home_navigation = site.data.navigation.main %}
+          {% if page.lang == 'en' %}{% assign home_navigation = site.data.navigation.english %}{% endif %}
+          {% for link in home_navigation %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
