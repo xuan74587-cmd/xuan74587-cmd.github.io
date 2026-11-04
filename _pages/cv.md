@@ -1,64 +1,38 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "简历"
 author_profile: true
-redirect_from:
-  - /resume
+lang: zh-CN
+homepage: true
 ---
 
-{% include base_path %}
+<div class="academic-home" markdown="1">
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[English version](/en/cv/)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 教育经历
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+教育经历</h2>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **武汉理工大学** · 硕士在读  
+  人工智能学院 · 软件工程
+- **长江大学** · 本科  
+  计算机科学学院 · 网络工程
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 荣誉与获奖
+
+- **国家奖学金**
+- **中国机器人及人工智能大赛 · 国家级一等奖**
+- **睿抗机器人开发者大赛 · 国家级一等奖**
+- 蓝桥杯全国软件和信息技术专业人才大赛 · 国家级三等奖
+- 全国高校计算机能力挑战赛 · 省级二等奖
+- 湖北省信息技术创新大赛 · 省级三等奖
+- 华中杯大学生数学建模大赛 · 省级三等奖
+- 校三好学生标兵；优秀共青团员
+
+## 联系方式
+
+**Email:** [xuanzhou@whut.edu.cn](mailto:xuanzhou@whut.edu.cn)  
+**GitHub:** [xuan74587-cmd](https://github.com/xuan74587-cmd)
+
+</div>

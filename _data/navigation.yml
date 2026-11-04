@@ -1,22 +1,22 @@
 main:
-- title: 研究 / Research
-  url: /#research
-- title: 项目 / Projects
-  url: /#projects
-- title: 经历 / Education
-  url: /#education
-- title: 中文
-  url: /
-- title: English
-  url: /en/
+  - title: "首页"
+    url: /
+  - title: "研究"
+    url: /research/
+  - title: "简历"
+    url: /cv/
+  - title: "中文"
+    url: /
+  - title: "English"
+    url: /en/
 english:
-- title: Research
-  url: /en/#research
-- title: Projects
-  url: /en/#projects
-- title: Education
-  url: /en/#education
-- title: 中文
-  url: /
-- title: English
-  url: /en/
+  - title: "Home"
+    url: /en/
+  - title: "Research"
+    url: /en/research/
+  - title: "CV"
+    url: /en/cv/
+  - title: "中文"
+    url: /
+  - title: "English"
+    url: /en/
