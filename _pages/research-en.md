@@ -33,7 +33,7 @@ Core developer · Mar 2025–Aug 2025
 Developed motion control, path planning and obstacle avoidance, and implemented vision algorithms for target detection and environmental perception. Contributed to task allocation and collaboration strategies for a dual-robot platform. The project received a National First Prize at the 27th China Robot and Artificial Intelligence Competition.
 
 ### OCR- and AI-based personnel archive retrieval
-Project lead · Started Oct 2024
+Project lead · Oct 2024–Jan 2025
 {: .project-meta}
 
 Designed a multilingual OCR model combining ResNet, LSTM, and attention. Developed retrieval, structured storage, and access control modules using inverted indexing, fuzzy matching, and MySQL. The project was **recommended at the university level**.
